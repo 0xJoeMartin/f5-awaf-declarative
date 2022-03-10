@@ -1535,7 +1535,7 @@
             "wildcardOrder" : 1
          }
       ],
-      "fullPath" : "/Common/protea-arcadia-honeypot",
+      "fullPath" : "/Common/protea-arcadia",
       "general" : {
          "allowedResponseCodes" : [
             400,
@@ -1687,7 +1687,7 @@
             "name" : "GET"
          }
       ],
-      "name" : "protea-arcadia-honeypot",
+      "name" : "protea-arcadia",
       "parameters" : [
          {
             "allowEmptyValue" : true,
